@@ -1,0 +1,6 @@
+*.env
+*.txt
+node_modules
+config.ts
+jokes.ts
+.vscode
